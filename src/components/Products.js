@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Import local images
-import product1Image from '../assets/images/fitness.jpg'
+import product1Image from '../assets/images/fitness.jpg';
 import product2Image from '../assets/images/sante.jpg';
 import product3Image from '../assets/images/bientre.jpg';
 
@@ -9,8 +9,8 @@ const products = [
   { id: 1, title: "Fitness", 
 description: "Le Bundle Méga Fitness est un produit puissant et renforcé qui contient 58 e-books sur la santé et le fitness. Ces e-books couvrent une large gamme d'exercices pour des parties spécifiques du corps. En outre, le bundle contient 5000 articles sur la santé et le fitness", 
 imgSrc: product1Image, link: "https://digistore24.com/redir/556489/PIiercel" },
-  { id: 2, title: "Santé", description: "This is an awesome product.", imgSrc: product2Image, link: "https://example.com/product2" },
-  { id: 3, title: "Bien-être", description: "This is an awesome product.", imgSrc: product3Image, link: "https://example.com/product3" },
+  { id: 2, title: "Santé", description: "Le secret volcanique pour une perte de poids saine. Profiter d’une perte de poids saine et durable LavaSlim et ses 6 ingrédients naturels puissants, venant des volcans, et testés par des études cliniques.", imgSrc: product2Image, link: "https://lavaslim.co/#aff=PIiercel" },
+  { id: 3, title: "Bien-être - Musique de fond", description: "Notre bibliothèque de 32 clips audio de haute qualité. Que vous soyez une agence de marketing, un producteur de vidéos ou un créateur de contenu, accédez instantanément à des clips composés professionnellement, parfaits pour tout projet vidéo", imgSrc: product3Image, link: "https://www.digistore24.com/redir/556453/PIiercel/" },
 ];
 
 const Products = () => {
