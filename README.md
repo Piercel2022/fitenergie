@@ -83,7 +83,7 @@ REQUIRED SECTIONS:
 
 
 
-- [Live Demo](https://fitenergie.netlify.app/)
+- [fitenergie](https://fitenergie.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
