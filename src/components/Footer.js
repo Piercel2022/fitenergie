@@ -4,11 +4,11 @@ const Footer = () => {
   return (
     <footer className="bg-gray-800 text-white py-6">
       <div className="container mx-auto text-center">
-        <p>Follow us on Instagram</p>
+        <p>Suivez nous sur Instagram</p>
         <a href="https://www.instagram.com/bundlefit2024" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">
-          @bundlefit2024
+          @vitaforme_officiel
         </a>
-        <p className="mt-4">&copy; {new Date().getFullYear()} Fitenergie. All rights reserved.</p>
+        <p className="mt-4">&copy; {new Date().getFullYear()} VitaForme. Tous droits reservés.</p>
       </div>
     </footer>
   );
