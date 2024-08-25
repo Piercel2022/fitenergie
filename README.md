@@ -44,7 +44,7 @@ REQUIRED SECTIONS:
 
 
 
-**[Fitenergie]** is a website that promote differents produits on the instagram social media platform
+**[Fitenergie]**  is a visually captivating and user-friendly platform designed to showcase products or services, specifically tailored for promotion on Instagram. It features a clean, modern design using HTML5, TailwindCSS, and React, ensuring responsiveness across all devices. The website includes a dynamic product gallery with vibrant images, interactive elements like hover effects, and smooth animations to engage users. Key features include direct links to Instagram, seamless integration with social media, and prominent call-to-action buttons, all aimed at driving traffic and converting visitors into followers or customers. The site emphasizes aesthetics, speed, and a seamless user experience to effectively boost online presence and sales.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -83,7 +83,7 @@ REQUIRED SECTIONS:
 
 
 
-- [Live Demo](https://fitenergie.netlify.app/)
+- [fitenergie](https://fitenergie.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
